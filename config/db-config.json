@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"user": "root",
+	"password": "111111",
+  	"host" : 3306,
+	"database": "ratedb"
+}
